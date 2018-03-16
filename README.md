@@ -1,5 +1,5 @@
 # weipinhui
-唯品会用户购买行为预测
+唯品会用户购买行为预测: [比赛地址](http://www.datafountain.cn/#/competitions/260/intro)
 
 文件说明：
 ---
